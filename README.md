@@ -1,2 +1,2 @@
-# 2018-13-mariogame
-2d类似马里奥闯关小游戏
+# 2018-13-happygame
+基于 Cocos Creator v2.0 2d闯关安卓小游戏
